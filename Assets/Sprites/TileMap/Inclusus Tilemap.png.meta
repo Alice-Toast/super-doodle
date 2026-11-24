@@ -250,7 +250,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -290,7 +290,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -319,11 +319,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 479
-        width: 33
-        height: 33
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,12 +340,12 @@ TextureImporter:
       name: Inclusus Tilemap_1
       rect:
         serializedVersion: 2
-        x: 47
-        y: 479
-        width: 34
-        height: 33
+        x: 48
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: Inclusus Tilemap_2
       rect:
         serializedVersion: 2
-        x: 95
-        y: 479
-        width: 34
-        height: 33
+        x: 96
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: Inclusus Tilemap_3
       rect:
         serializedVersion: 2
-        x: 143
-        y: 479
-        width: 34
-        height: 33
+        x: 144
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +406,12 @@ TextureImporter:
       name: Inclusus Tilemap_4
       rect:
         serializedVersion: 2
-        x: 191
-        y: 479
-        width: 34
-        height: 33
+        x: 192
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +428,12 @@ TextureImporter:
       name: Inclusus Tilemap_5
       rect:
         serializedVersion: 2
-        x: 239
-        y: 479
-        width: 34
-        height: 33
+        x: 240
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +450,12 @@ TextureImporter:
       name: Inclusus Tilemap_6
       rect:
         serializedVersion: 2
-        x: 287
-        y: 479
-        width: 34
-        height: 33
+        x: 288
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +472,12 @@ TextureImporter:
       name: Inclusus Tilemap_7
       rect:
         serializedVersion: 2
-        x: 335
-        y: 479
-        width: 34
-        height: 33
+        x: 336
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +494,12 @@ TextureImporter:
       name: Inclusus Tilemap_8
       rect:
         serializedVersion: 2
-        x: 383
-        y: 479
-        width: 34
-        height: 33
+        x: 384
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +516,12 @@ TextureImporter:
       name: Inclusus Tilemap_9
       rect:
         serializedVersion: 2
-        x: 431
-        y: 479
-        width: 34
-        height: 33
+        x: 432
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,12 +538,12 @@ TextureImporter:
       name: Inclusus Tilemap_10
       rect:
         serializedVersion: 2
-        x: 479
-        y: 479
-        width: 33
-        height: 33
+        x: 480
+        y: 480
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -561,11 +561,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 431
-        width: 33
-        height: 34
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: Inclusus Tilemap_12
       rect:
         serializedVersion: 2
-        x: 47
-        y: 431
-        width: 34
-        height: 34
+        x: 48
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,12 +604,12 @@ TextureImporter:
       name: Inclusus Tilemap_13
       rect:
         serializedVersion: 2
-        x: 95
-        y: 431
-        width: 34
-        height: 34
+        x: 96
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: Inclusus Tilemap_14
       rect:
         serializedVersion: 2
-        x: 143
-        y: 431
-        width: 34
-        height: 34
+        x: 144
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,12 +648,12 @@ TextureImporter:
       name: Inclusus Tilemap_15
       rect:
         serializedVersion: 2
-        x: 191
-        y: 431
-        width: 34
-        height: 34
+        x: 192
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,12 +670,12 @@ TextureImporter:
       name: Inclusus Tilemap_16
       rect:
         serializedVersion: 2
-        x: 239
-        y: 431
-        width: 34
-        height: 34
+        x: 240
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -692,12 +692,12 @@ TextureImporter:
       name: Inclusus Tilemap_17
       rect:
         serializedVersion: 2
-        x: 287
-        y: 431
-        width: 34
-        height: 34
+        x: 288
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -714,12 +714,12 @@ TextureImporter:
       name: Inclusus Tilemap_18
       rect:
         serializedVersion: 2
-        x: 335
-        y: 431
-        width: 34
-        height: 34
+        x: 336
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -736,12 +736,12 @@ TextureImporter:
       name: Inclusus Tilemap_19
       rect:
         serializedVersion: 2
-        x: 383
-        y: 431
-        width: 34
-        height: 34
+        x: 384
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: Inclusus Tilemap_20
       rect:
         serializedVersion: 2
-        x: 431
-        y: 431
-        width: 34
-        height: 34
+        x: 432
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -780,12 +780,12 @@ TextureImporter:
       name: Inclusus Tilemap_21
       rect:
         serializedVersion: 2
-        x: 479
-        y: 431
-        width: 33
-        height: 34
+        x: 480
+        y: 432
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -803,11 +803,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 383
-        width: 33
-        height: 34
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -824,12 +824,12 @@ TextureImporter:
       name: Inclusus Tilemap_23
       rect:
         serializedVersion: 2
-        x: 47
-        y: 383
-        width: 34
-        height: 34
+        x: 48
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -846,12 +846,12 @@ TextureImporter:
       name: Inclusus Tilemap_24
       rect:
         serializedVersion: 2
-        x: 95
-        y: 383
-        width: 34
-        height: 34
+        x: 96
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -868,12 +868,12 @@ TextureImporter:
       name: Inclusus Tilemap_25
       rect:
         serializedVersion: 2
-        x: 143
-        y: 383
-        width: 34
-        height: 34
+        x: 144
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -890,12 +890,12 @@ TextureImporter:
       name: Inclusus Tilemap_26
       rect:
         serializedVersion: 2
-        x: 191
-        y: 383
-        width: 34
-        height: 34
+        x: 192
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -912,12 +912,12 @@ TextureImporter:
       name: Inclusus Tilemap_27
       rect:
         serializedVersion: 2
-        x: 239
-        y: 383
-        width: 34
-        height: 34
+        x: 240
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -934,12 +934,12 @@ TextureImporter:
       name: Inclusus Tilemap_28
       rect:
         serializedVersion: 2
-        x: 287
-        y: 383
-        width: 34
-        height: 34
+        x: 288
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -956,12 +956,12 @@ TextureImporter:
       name: Inclusus Tilemap_29
       rect:
         serializedVersion: 2
-        x: 335
-        y: 383
-        width: 34
-        height: 34
+        x: 336
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -978,12 +978,12 @@ TextureImporter:
       name: Inclusus Tilemap_30
       rect:
         serializedVersion: 2
-        x: 383
-        y: 383
-        width: 34
-        height: 34
+        x: 384
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1000,12 +1000,12 @@ TextureImporter:
       name: Inclusus Tilemap_31
       rect:
         serializedVersion: 2
-        x: 431
-        y: 383
-        width: 34
-        height: 34
+        x: 432
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1022,12 +1022,12 @@ TextureImporter:
       name: Inclusus Tilemap_32
       rect:
         serializedVersion: 2
-        x: 479
-        y: 383
-        width: 33
-        height: 34
+        x: 480
+        y: 384
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1045,11 +1045,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 335
-        width: 33
-        height: 34
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1066,12 +1066,12 @@ TextureImporter:
       name: Inclusus Tilemap_34
       rect:
         serializedVersion: 2
-        x: 47
-        y: 335
-        width: 34
-        height: 34
+        x: 48
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1088,12 +1088,12 @@ TextureImporter:
       name: Inclusus Tilemap_35
       rect:
         serializedVersion: 2
-        x: 95
-        y: 335
-        width: 34
-        height: 34
+        x: 96
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1110,12 +1110,12 @@ TextureImporter:
       name: Inclusus Tilemap_36
       rect:
         serializedVersion: 2
-        x: 143
-        y: 335
-        width: 34
-        height: 34
+        x: 144
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1132,12 +1132,12 @@ TextureImporter:
       name: Inclusus Tilemap_37
       rect:
         serializedVersion: 2
-        x: 191
-        y: 335
-        width: 34
-        height: 34
+        x: 192
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1154,12 +1154,12 @@ TextureImporter:
       name: Inclusus Tilemap_38
       rect:
         serializedVersion: 2
-        x: 239
-        y: 335
-        width: 34
-        height: 34
+        x: 240
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1176,12 +1176,12 @@ TextureImporter:
       name: Inclusus Tilemap_39
       rect:
         serializedVersion: 2
-        x: 287
-        y: 335
-        width: 34
-        height: 34
+        x: 288
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1198,12 +1198,12 @@ TextureImporter:
       name: Inclusus Tilemap_40
       rect:
         serializedVersion: 2
-        x: 335
-        y: 335
-        width: 34
-        height: 34
+        x: 336
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1220,12 +1220,12 @@ TextureImporter:
       name: Inclusus Tilemap_41
       rect:
         serializedVersion: 2
-        x: 383
-        y: 335
-        width: 34
-        height: 34
+        x: 384
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1242,12 +1242,12 @@ TextureImporter:
       name: Inclusus Tilemap_42
       rect:
         serializedVersion: 2
-        x: 431
-        y: 335
-        width: 34
-        height: 34
+        x: 432
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1264,12 +1264,12 @@ TextureImporter:
       name: Inclusus Tilemap_43
       rect:
         serializedVersion: 2
-        x: 479
-        y: 335
-        width: 33
-        height: 34
+        x: 480
+        y: 336
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1287,11 +1287,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 287
-        width: 33
-        height: 34
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1308,12 +1308,12 @@ TextureImporter:
       name: Inclusus Tilemap_45
       rect:
         serializedVersion: 2
-        x: 47
-        y: 287
-        width: 34
-        height: 34
+        x: 48
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1330,12 +1330,12 @@ TextureImporter:
       name: Inclusus Tilemap_46
       rect:
         serializedVersion: 2
-        x: 95
-        y: 287
-        width: 34
-        height: 34
+        x: 96
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1352,12 +1352,12 @@ TextureImporter:
       name: Inclusus Tilemap_47
       rect:
         serializedVersion: 2
-        x: 143
-        y: 287
-        width: 34
-        height: 34
+        x: 144
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1374,12 +1374,12 @@ TextureImporter:
       name: Inclusus Tilemap_48
       rect:
         serializedVersion: 2
-        x: 191
-        y: 287
-        width: 34
-        height: 34
+        x: 192
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1396,12 +1396,12 @@ TextureImporter:
       name: Inclusus Tilemap_49
       rect:
         serializedVersion: 2
-        x: 239
-        y: 287
-        width: 34
-        height: 34
+        x: 240
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1418,12 +1418,12 @@ TextureImporter:
       name: Inclusus Tilemap_50
       rect:
         serializedVersion: 2
-        x: 287
-        y: 287
-        width: 34
-        height: 34
+        x: 288
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1440,12 +1440,12 @@ TextureImporter:
       name: Inclusus Tilemap_51
       rect:
         serializedVersion: 2
-        x: 335
-        y: 287
-        width: 34
-        height: 34
+        x: 336
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1462,12 +1462,12 @@ TextureImporter:
       name: Inclusus Tilemap_52
       rect:
         serializedVersion: 2
-        x: 383
-        y: 287
-        width: 34
-        height: 34
+        x: 384
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1484,12 +1484,12 @@ TextureImporter:
       name: Inclusus Tilemap_53
       rect:
         serializedVersion: 2
-        x: 431
-        y: 287
-        width: 34
-        height: 34
+        x: 432
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1506,12 +1506,12 @@ TextureImporter:
       name: Inclusus Tilemap_54
       rect:
         serializedVersion: 2
-        x: 479
-        y: 287
-        width: 33
-        height: 34
+        x: 480
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1529,11 +1529,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 239
-        width: 33
-        height: 34
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1550,12 +1550,12 @@ TextureImporter:
       name: Inclusus Tilemap_56
       rect:
         serializedVersion: 2
-        x: 47
-        y: 239
-        width: 34
-        height: 34
+        x: 48
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1572,12 +1572,12 @@ TextureImporter:
       name: Inclusus Tilemap_57
       rect:
         serializedVersion: 2
-        x: 95
-        y: 239
-        width: 34
-        height: 34
+        x: 96
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1594,12 +1594,12 @@ TextureImporter:
       name: Inclusus Tilemap_58
       rect:
         serializedVersion: 2
-        x: 143
-        y: 239
-        width: 34
-        height: 34
+        x: 144
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1616,12 +1616,12 @@ TextureImporter:
       name: Inclusus Tilemap_59
       rect:
         serializedVersion: 2
-        x: 191
-        y: 239
-        width: 34
-        height: 34
+        x: 192
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1638,12 +1638,12 @@ TextureImporter:
       name: Inclusus Tilemap_60
       rect:
         serializedVersion: 2
-        x: 239
-        y: 239
-        width: 34
-        height: 34
+        x: 240
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1660,12 +1660,12 @@ TextureImporter:
       name: Inclusus Tilemap_61
       rect:
         serializedVersion: 2
-        x: 287
-        y: 239
-        width: 34
-        height: 34
+        x: 288
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1682,12 +1682,12 @@ TextureImporter:
       name: Inclusus Tilemap_62
       rect:
         serializedVersion: 2
-        x: 335
-        y: 239
-        width: 34
-        height: 34
+        x: 336
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1704,12 +1704,12 @@ TextureImporter:
       name: Inclusus Tilemap_63
       rect:
         serializedVersion: 2
-        x: 383
-        y: 239
-        width: 34
-        height: 34
+        x: 384
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1726,12 +1726,12 @@ TextureImporter:
       name: Inclusus Tilemap_64
       rect:
         serializedVersion: 2
-        x: 431
-        y: 239
-        width: 34
-        height: 34
+        x: 432
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1748,12 +1748,12 @@ TextureImporter:
       name: Inclusus Tilemap_65
       rect:
         serializedVersion: 2
-        x: 479
-        y: 239
-        width: 33
-        height: 34
+        x: 480
+        y: 240
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1770,12 +1770,12 @@ TextureImporter:
       name: Inclusus Tilemap_66
       rect:
         serializedVersion: 2
-        x: 143
-        y: 191
-        width: 34
-        height: 34
+        x: 144
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1792,12 +1792,12 @@ TextureImporter:
       name: Inclusus Tilemap_67
       rect:
         serializedVersion: 2
-        x: 191
-        y: 191
-        width: 34
-        height: 34
+        x: 192
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1814,12 +1814,12 @@ TextureImporter:
       name: Inclusus Tilemap_68
       rect:
         serializedVersion: 2
-        x: 239
-        y: 191
-        width: 34
-        height: 34
+        x: 240
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1836,12 +1836,12 @@ TextureImporter:
       name: Inclusus Tilemap_69
       rect:
         serializedVersion: 2
-        x: 143
-        y: 143
-        width: 34
-        height: 34
+        x: 144
+        y: 144
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1858,12 +1858,12 @@ TextureImporter:
       name: Inclusus Tilemap_70
       rect:
         serializedVersion: 2
-        x: 191
-        y: 143
-        width: 34
-        height: 34
+        x: 192
+        y: 144
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1880,12 +1880,12 @@ TextureImporter:
       name: Inclusus Tilemap_71
       rect:
         serializedVersion: 2
-        x: 239
-        y: 143
-        width: 34
-        height: 34
+        x: 240
+        y: 144
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1902,7 +1902,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 142e5b20c496a154cad840166a19630d
     internalID: 0
     vertices: []
     indices: 
@@ -1910,7 +1910,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":16.0,"y":16.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Inclusus Tilemap_0: -5363557491589583053
       Inclusus Tilemap_1: -5475245645186913035
