@@ -1,4 +1,6 @@
+using System;
 using System.Security.Cryptography;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -7,9 +9,15 @@ public class CameraFollow : MonoBehaviour
     // Alice Bellefeuille
     private Transform target;
 
+    private Transform secondaryTarget;
+
     private Rigidbody2D rb;
 
     public Vector3 offset;
+
+    public Vector3 secondaryOffset;
+
+    
 
     public float speed = 1;
 
@@ -17,6 +25,7 @@ public class CameraFollow : MonoBehaviour
     void Start()
     {
         target = GameObject.FindGameObjectWithTag("Player").transform;
+        secondaryTarget = GameObject.FindGameObjectWithTag("PrimeCamPos").transform;
         rb = GetComponent<Rigidbody2D>();
     }
     // Update is called once per frame
@@ -46,7 +55,7 @@ public class CameraFollow : MonoBehaviour
                 transform.position += (Vector3.back * 10);
 
 
-
+                
                 Debug.Log(hit.point);
             }
             firstrun = false;
@@ -61,8 +70,11 @@ public class CameraFollow : MonoBehaviour
         }
 
         Vector3 targetpos = target.position + newoffset;
-        rb.linearVelocity = (targetpos - transform.position) * speed;
-    }
+
+        rb.linearVelocity = ((targetpos - transform.position) * speed);
+
+        
+}
 
     Vector3 RotatePosition(Vector3 origin, float rotation)
     {
@@ -74,4 +86,39 @@ public class CameraFollow : MonoBehaviour
         
     }
 
+    public void SwapTarget()
+    {
+        Transform Temporary = target;
+        target = secondaryTarget;
+        secondaryTarget = Temporary;
+
+        Vector3 Temporary2 = offset;
+        offset = secondaryOffset;
+        secondaryOffset = Temporary2;
+
+    }
+
+
+}
+
+static class ExtensionMethods
+{
+    /// <summary>
+    /// Rounds Vector3.
+    /// </summary>
+    /// <param name="vector3"></param>
+    /// <param name="decimalPlaces"></param>
+    /// <returns></returns>
+    public static Vector3 Round(this Vector3 vector3, int decimalPlaces = 2)
+    {
+        float multiplier = 1;
+        for (int i = 0; i < decimalPlaces; i++)
+        {
+            multiplier *= 10f;
+        }
+        return new Vector3(
+            Mathf.Round(vector3.x * multiplier) / multiplier,
+            Mathf.Round(vector3.y * multiplier) / multiplier,
+            Mathf.Round(vector3.z * multiplier) / multiplier);
+    }
 }

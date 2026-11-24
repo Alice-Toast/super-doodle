@@ -19,27 +19,25 @@ public class InteractionController : MonoBehaviour
     }
     public void interact(bool isOn)
     {
-        switch (interacType)
+        if (isOn)
         {
-            case Type.Door:
-                if (isOn)
-                {
-                    
-                    Debug.Log("Door");
+            switch (interacType)
+            {
+                case Type.Door:
                     this.GetComponent<door>().OpenDoor();
-                }
-                
-                break;
-            case Type.Button:
-                Debug.Log("Button");
-                break;
-            case Type.Seat:
-                Debug.Log("Seat");
-                break;
-            default:
-                Debug.Log("No Type Found");
-                break;
+                    break;
+                case Type.Button:
+                    Debug.Log("Button");
+                    break;
+                case Type.Seat:
+                    this.GetComponent<Seat>().Sit();
+                    break;
+                default:
+                    Debug.Log("No Type Found");
+                    break;
+            }
         }
+       
             
     }
 }

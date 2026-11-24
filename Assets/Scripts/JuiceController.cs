@@ -6,6 +6,8 @@ public class JuiceController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private Rigidbody2D rb;
     public float speed = 1f;
+    public bool verticalMovement = false;
+    private Vector2 playerVelocity= Vector2.down;
     void Start()
     {
         rb = this.GetComponent<Rigidbody2D>();
@@ -13,7 +15,22 @@ public class JuiceController : MonoBehaviour
     public void HandleMovement(InputAction.CallbackContext context)
     {
         //print(context.ReadValue<Vector2>());
-        rb.linearVelocity = context.ReadValue<Vector2>() * speed;
+        if (verticalMovement)
+        {
+            playerVelocity = context.ReadValue<Vector2>() * speed;
+        }
+        else
+        {
+            playerVelocity = context.ReadValue<Vector2>() * speed * Vector2.right+Vector2.down*2; // this will remove vertical movement.
+        }
+        if(playerVelocity.x < 0)
+        {
+            this.GetComponent<SpriteRenderer>().flipX = false;
+        }
+        else if(playerVelocity.x > 0)
+        {
+            this.GetComponent<SpriteRenderer>().flipX = true;
+        }
     }
 
     public void Interact(InputAction.CallbackContext context)
@@ -23,14 +40,17 @@ public class JuiceController : MonoBehaviour
         rb.Overlap(overlapColliders);
         foreach(Collider2D col in overlapColliders)
         {
-            col.tag = "interact";
-            col.GetComponent<InteractionController>().interact(context.ReadValueAsButton());
+            if (col.tag == "interact")
+            {
+                col.GetComponent<InteractionController>().interact(context.ReadValueAsButton());
+            }
+            
         }
 
     }
     // Update is called once per frame
     void Update()
     {
-        //if(inputac
+        rb.linearVelocity = playerVelocity;
     }
 }
