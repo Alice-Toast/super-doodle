@@ -1,0 +1,2511 @@
+fileFormatVersion: 2
+guid: 8a199a8786c7ccd479f464fd525a5116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6733161872864567818
+    second: PixelArtTownProps_0
+  - first:
+      213: 7739157339460415512
+    second: PixelArtTownProps_1
+  - first:
+      213: -5171416385863283364
+    second: PixelArtTownProps_2
+  - first:
+      213: -445384055175756771
+    second: PixelArtTownProps_3
+  - first:
+      213: 5338025429133734618
+    second: PixelArtTownProps_4
+  - first:
+      213: 5180911024313379645
+    second: PixelArtTownProps_5
+  - first:
+      213: -5876006232102990767
+    second: PixelArtTownProps_6
+  - first:
+      213: 863876438419191210
+    second: PixelArtTownProps_7
+  - first:
+      213: 5036498301222429925
+    second: PixelArtTownProps_8
+  - first:
+      213: 899185340818513312
+    second: PixelArtTownProps_9
+  - first:
+      213: -470591981793241664
+    second: PixelArtTownProps_10
+  - first:
+      213: 2050318181377623624
+    second: PixelArtTownProps_11
+  - first:
+      213: -189456732151140899
+    second: PixelArtTownProps_12
+  - first:
+      213: 447049199533299038
+    second: PixelArtTownProps_13
+  - first:
+      213: 2358534139841824007
+    second: PixelArtTownProps_14
+  - first:
+      213: -5331471372203151192
+    second: PixelArtTownProps_15
+  - first:
+      213: -8199534811392748126
+    second: PixelArtTownProps_16
+  - first:
+      213: 5895831193658187606
+    second: PixelArtTownProps_17
+  - first:
+      213: -7629962614039941819
+    second: PixelArtTownProps_18
+  - first:
+      213: -2878149207990895855
+    second: PixelArtTownProps_19
+  - first:
+      213: -8298574647499925841
+    second: PixelArtTownProps_20
+  - first:
+      213: -820049122082842753
+    second: PixelArtTownProps_21
+  - first:
+      213: -6352097614283832100
+    second: PixelArtTownProps_22
+  - first:
+      213: 6941013699384275201
+    second: PixelArtTownProps_23
+  - first:
+      213: 4383735356807566181
+    second: PixelArtTownProps_24
+  - first:
+      213: -5427383774010320709
+    second: PixelArtTownProps_25
+  - first:
+      213: -7411390305646493043
+    second: PixelArtTownProps_26
+  - first:
+      213: -3765762751564427371
+    second: PixelArtTownProps_27
+  - first:
+      213: 8280746869572265377
+    second: PixelArtTownProps_28
+  - first:
+      213: -2396796027867007623
+    second: PixelArtTownProps_29
+  - first:
+      213: -357492515107911114
+    second: PixelArtTownProps_30
+  - first:
+      213: -5843092239369361633
+    second: PixelArtTownProps_31
+  - first:
+      213: -4969967873954000151
+    second: PixelArtTownProps_32
+  - first:
+      213: 6968858324145554996
+    second: PixelArtTownProps_33
+  - first:
+      213: -8556180009788566890
+    second: PixelArtTownProps_34
+  - first:
+      213: -4665368116017134881
+    second: PixelArtTownProps_35
+  - first:
+      213: -4427234969761681664
+    second: PixelArtTownProps_36
+  - first:
+      213: 4254947591597541520
+    second: PixelArtTownProps_37
+  - first:
+      213: 7436902792421659193
+    second: PixelArtTownProps_38
+  - first:
+      213: -8040155258103169511
+    second: PixelArtTownProps_39
+  - first:
+      213: 7224232537136212352
+    second: PixelArtTownProps_40
+  - first:
+      213: -3583829075184876297
+    second: PixelArtTownProps_41
+  - first:
+      213: -4149398353580554613
+    second: PixelArtTownProps_42
+  - first:
+      213: 7960521025233223848
+    second: PixelArtTownProps_43
+  - first:
+      213: 7320600711195997049
+    second: PixelArtTownProps_44
+  - first:
+      213: 6896583613018738552
+    second: PixelArtTownProps_45
+  - first:
+      213: -3386022628507340213
+    second: PixelArtTownProps_46
+  - first:
+      213: 594215422524523328
+    second: PixelArtTownProps_47
+  - first:
+      213: 6164792908222615158
+    second: PixelArtTownProps_48
+  - first:
+      213: 2990765299119701534
+    second: PixelArtTownProps_49
+  - first:
+      213: 7650302772512249234
+    second: PixelArtTownProps_50
+  - first:
+      213: -1688825265744847368
+    second: PixelArtTownProps_51
+  - first:
+      213: -8051439435818020147
+    second: PixelArtTownProps_52
+  - first:
+      213: -9087443444464838099
+    second: PixelArtTownProps_53
+  - first:
+      213: -416338733907788825
+    second: PixelArtTownProps_54
+  - first:
+      213: 439378371332247080
+    second: PixelArtTownProps_55
+  - first:
+      213: 9010338768375801237
+    second: PixelArtTownProps_56
+  - first:
+      213: 3060401949900268351
+    second: PixelArtTownProps_57
+  - first:
+      213: 6528867718422544411
+    second: PixelArtTownProps_58
+  - first:
+      213: 8719047687664345218
+    second: PixelArtTownProps_59
+  - first:
+      213: -16639647660360425
+    second: PixelArtTownProps_60
+  - first:
+      213: 2563381003140516475
+    second: PixelArtTownProps_61
+  - first:
+      213: 3907728415362755703
+    second: PixelArtTownProps_62
+  - first:
+      213: -2198613968217224330
+    second: PixelArtTownProps_63
+  - first:
+      213: 3003841863748700501
+    second: PixelArtTownProps_64
+  - first:
+      213: 6877782591724683507
+    second: PixelArtTownProps_65
+  - first:
+      213: -6435920557508426323
+    second: PixelArtTownProps_66
+  - first:
+      213: 7445455072928192219
+    second: PixelArtTownProps_67
+  - first:
+      213: -1757148685855770952
+    second: PixelArtTownProps_68
+  - first:
+      213: 6833081674287370543
+    second: PixelArtTownProps_69
+  - first:
+      213: -8308965792976975046
+    second: PixelArtTownProps_70
+  - first:
+      213: -4849234755985388629
+    second: PixelArtTownProps_71
+  - first:
+      213: -2442225026469965300
+    second: PixelArtTownProps_72
+  - first:
+      213: -4366372545155452586
+    second: PixelArtTownProps_73
+  - first:
+      213: 3407251265852498629
+    second: PixelArtTownProps_74
+  - first:
+      213: -4809389528237823470
+    second: PixelArtTownProps_75
+  - first:
+      213: 3521695455107673917
+    second: PixelArtTownProps_76
+  - first:
+      213: 9138098356394965395
+    second: PixelArtTownProps_77
+  - first:
+      213: -4019160292833990409
+    second: PixelArtTownProps_78
+  - first:
+      213: -3818007635785097566
+    second: PixelArtTownProps_79
+  - first:
+      213: 7919281878490464638
+    second: PixelArtTownProps_80
+  - first:
+      213: 4583145282011879369
+    second: PixelArtTownProps_81
+  - first:
+      213: -3337494819081273383
+    second: PixelArtTownProps_82
+  - first:
+      213: 1365225740076556065
+    second: PixelArtTownProps_83
+  - first:
+      213: 6789269926334446632
+    second: PixelArtTownProps_84
+  - first:
+      213: 3154990232956986974
+    second: PixelArtTownProps_85
+  - first:
+      213: -7606928412213322608
+    second: PixelArtTownProps_86
+  - first:
+      213: 9123342485975739564
+    second: PixelArtTownProps_87
+  - first:
+      213: -7155272895309183346
+    second: PixelArtTownProps_88
+  - first:
+      213: 564043592026297287
+    second: PixelArtTownProps_89
+  - first:
+      213: -3528318432292702589
+    second: PixelArtTownProps_90
+  - first:
+      213: -5390919934354893117
+    second: PixelArtTownProps_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelArtTownProps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02eb4fac0ff07d50800000000000000
+      internalID: 6733161872864567818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 495
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810356fa892076b60800000000000000
+      internalID: 7739157339460415512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 482
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d0cf642307b38b0800000000000000
+      internalID: -5171416385863283364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 495
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1440a2cf8da1d9f0800000000000000
+      internalID: -445384055175756771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 495
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2b48188d9741a40800000000000000
+      internalID: 5338025429133734618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 495
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3baa11802b46e740800000000000000
+      internalID: 5180911024313379645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 495
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c058dd67b347ea0800000000000000
+      internalID: -5876006232102990767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 488
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa53ec13b0b1dfb00800000000000000
+      internalID: 863876438419191210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4a83c358c35e540800000000000000
+      internalID: 5036498301222429925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 481
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0add9baad4c8a7c00800000000000000
+      internalID: 899185340818513312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 467
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5111bf51f1879f0800000000000000
+      internalID: -470591981793241664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 490
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c98dd581347c10800000000000000
+      internalID: 2050318181377623624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 398
+        width: 137
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd23db1b1aee5df0800000000000000
+      internalID: -189456732151140899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 406
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e551e4fd0ec343600800000000000000
+      internalID: 447049199533299038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 356
+        width: 124
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70547ebdd423bb020800000000000000
+      internalID: 2358534139841824007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 422
+        width: 132
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0baa9c80fc206b0800000000000000
+      internalID: -5331471372203151192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a55c733886653e80800000000000000
+      internalID: -8199534811392748126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fd9a1bb3332d150800000000000000
+      internalID: 5895831193658187606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 382
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d63a48d6dec1690800000000000000
+      internalID: -7629962614039941819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 431
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b712f5b82ce08d0800000000000000
+      internalID: -2878149207990895855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 431
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa654b9635a85dc80800000000000000
+      internalID: -8298574647499925841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7791e31ba99e94f0800000000000000
+      internalID: -820049122082842753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 431
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4810aefd0d8d7a0800000000000000
+      internalID: -6352097614283832100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 431
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1017bec3f2f635060800000000000000
+      internalID: 6941013699384275201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 412
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d5dbb41826dc30800000000000000
+      internalID: 4383735356807566181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 368
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8556a863f0ea4b0800000000000000
+      internalID: -5427383774010320709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 422
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ca24c8c3752990800000000000000
+      internalID: -7411390305646493043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 382
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fca94bab25dbbc0800000000000000
+      internalID: -3765762751564427371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 382
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a568c3976f1be270800000000000000
+      internalID: 8280746869572265377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 367
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9757bef16bedcbed0800000000000000
+      internalID: -2396796027867007623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 367
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac12b937ee90bf0800000000000000
+      internalID: -357492515107911114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 360
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172c8af09a29eea0800000000000000
+      internalID: -5843092239369361633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_32
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 391
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e25ed7fc80270bb0800000000000000
+      internalID: -4969967873954000151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43648b429bb56b060800000000000000
+      internalID: 6968858324145554996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 360
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692114a1d97524980800000000000000
+      internalID: -8556180009788566890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 328
+        width: 87
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd28d5aaa68414fb0800000000000000
+      internalID: -4665368116017134881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 357
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fea22604d4f82c0800000000000000
+      internalID: -4427234969761681664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_37
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 297
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09843177a4c9c0b30800000000000000
+      internalID: 4254947591597541520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_38
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 352
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9325763ffaf253760800000000000000
+      internalID: 7436902792421659193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 365
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e75cd2461ab6090800000000000000
+      internalID: -8040155258103169511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_40
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 352
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089a2d68731a14460800000000000000
+      internalID: 7224232537136212352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_41
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 364
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f483eda17ea34ec0800000000000000
+      internalID: -3583829075184876297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 116
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b868d3f8e206a66c0800000000000000
+      internalID: -4149398353580554613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 341
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a00e0022b3797e60800000000000000
+      internalID: 7960521025233223848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 338
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9733f458f8ff79560800000000000000
+      internalID: 7320600711195997049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 338
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f03c1a14695bf50800000000000000
+      internalID: 6896583613018738552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_46
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 298
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42b26afb5e6201d0800000000000000
+      internalID: -3386022628507340213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_47
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 306
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04302ab47c31f3800800000000000000
+      internalID: 594215422524523328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 306
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ec470dc7ebd8550800000000000000
+      internalID: 6164792908222615158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_49
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 306
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e389c9135518920800000000000000
+      internalID: 2990765299119701534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 296
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29557cba6d55b2a60800000000000000
+      internalID: 7650302772512249234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 296
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd29b5e561098e0800000000000000
+      internalID: -1688825265744847368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 294
+        width: 89
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2de71dd7a834090800000000000000
+      internalID: -8051439435818020147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 297
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a9838a55ae2e180800000000000000
+      internalID: -9087443444464838099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_54
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 297
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebb03b902ed83af0800000000000000
+      internalID: -416338733907788825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 297
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e8f310d4cf81600800000000000000
+      internalID: 439378371332247080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_56
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 262
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59568fafe572b0d70800000000000000
+      internalID: 9010338768375801237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 298
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e7b5db5bb87a20800000000000000
+      internalID: 3060401949900268351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_58
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 207
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10471639923b9a50800000000000000
+      internalID: 6528867718422544411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_59
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 207
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280acea2da7400970800000000000000
+      internalID: 8719047687664345218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d34002452e4cff0800000000000000
+      internalID: -16639647660360425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 233
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7acc24e075f29320800000000000000
+      internalID: 2563381003140516475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 233
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca56c2a4a0b3630800000000000000
+      internalID: 3907728415362755703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 262
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b4332ae34fc71e0800000000000000
+      internalID: -2198613968217224330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_64
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 267
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594032924acfa920800000000000000
+      internalID: 3003841863748700501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 267
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08d1eb3dac27f50800000000000000
+      internalID: 6877782591724683507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_66
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 272
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da583171a540fa6a0800000000000000
+      internalID: -6435920557508426323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_67
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 251
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d30de0f1935760800000000000000
+      internalID: 7445455072928192219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_68
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 207
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b50a749a5d97e0800000000000000
+      internalID: -1757148685855770952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 233
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21512d549bf3de50800000000000000
+      internalID: 6833081674287370543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 233
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b4cb252af90bc80800000000000000
+      internalID: -8308965792976975046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 223
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab43098eae04bcb0800000000000000
+      internalID: -4849234755985388629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 205
+        width: 118
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0250b327497b1ed0800000000000000
+      internalID: -2442225026469965300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651bdf0ed478763c0800000000000000
+      internalID: -4366372545155452586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_74
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 143
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c263a159fcf84f20800000000000000
+      internalID: 3407251265852498629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 191
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa6ee84bd914db0800000000000000
+      internalID: -4809389528237823470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_76
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 116
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fecc09b539fd030800000000000000
+      internalID: 3521695455107673917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_77
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 143
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b0871a0c01de70800000000000000
+      internalID: 9138098356394965395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_78
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 63
+        width: 85
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8664212031938c0800000000000000
+      internalID: -4019160292833990409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_79
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 127
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aedc4fa846b30bc0800000000000000
+      internalID: -3818007635785097566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cc9b09e0f6ed60800000000000000
+      internalID: 7919281878490464638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75358f95a9a9f30800000000000000
+      internalID: 4583145282011879369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 123
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df34f41526dea1d0800000000000000
+      internalID: -3337494819081273383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9b7bc39142f210800000000000000
+      internalID: 1365225740076556065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_84
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3863e605583e50800000000000000
+      internalID: 6789269926334446632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e566a39a6e6c8cb20800000000000000
+      internalID: 3154990232956986974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 92
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd23e89e2ce6690800000000000000
+      internalID: -7606928412213322608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 68
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac20d847af9c9e70800000000000000
+      internalID: 9123342485975739564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_88
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 57
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e868d14463d53bc90800000000000000
+      internalID: -7155272895309183346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_89
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 57
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3109498a2e3d700800000000000000
+      internalID: 564043592026297287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_90
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386fab46415e80fc0800000000000000
+      internalID: -3528318432292702589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtTownProps_91
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6543cc1ea9f25b0800000000000000
+      internalID: -5390919934354893117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelArtTownProps_0: 6733161872864567818
+      PixelArtTownProps_1: 7739157339460415512
+      PixelArtTownProps_10: -470591981793241664
+      PixelArtTownProps_11: 2050318181377623624
+      PixelArtTownProps_12: -189456732151140899
+      PixelArtTownProps_13: 447049199533299038
+      PixelArtTownProps_14: 2358534139841824007
+      PixelArtTownProps_15: -5331471372203151192
+      PixelArtTownProps_16: -8199534811392748126
+      PixelArtTownProps_17: 5895831193658187606
+      PixelArtTownProps_18: -7629962614039941819
+      PixelArtTownProps_19: -2878149207990895855
+      PixelArtTownProps_2: -5171416385863283364
+      PixelArtTownProps_20: -8298574647499925841
+      PixelArtTownProps_21: -820049122082842753
+      PixelArtTownProps_22: -6352097614283832100
+      PixelArtTownProps_23: 6941013699384275201
+      PixelArtTownProps_24: 4383735356807566181
+      PixelArtTownProps_25: -5427383774010320709
+      PixelArtTownProps_26: -7411390305646493043
+      PixelArtTownProps_27: -3765762751564427371
+      PixelArtTownProps_28: 8280746869572265377
+      PixelArtTownProps_29: -2396796027867007623
+      PixelArtTownProps_3: -445384055175756771
+      PixelArtTownProps_30: -357492515107911114
+      PixelArtTownProps_31: -5843092239369361633
+      PixelArtTownProps_32: -4969967873954000151
+      PixelArtTownProps_33: 6968858324145554996
+      PixelArtTownProps_34: -8556180009788566890
+      PixelArtTownProps_35: -4665368116017134881
+      PixelArtTownProps_36: -4427234969761681664
+      PixelArtTownProps_37: 4254947591597541520
+      PixelArtTownProps_38: 7436902792421659193
+      PixelArtTownProps_39: -8040155258103169511
+      PixelArtTownProps_4: 5338025429133734618
+      PixelArtTownProps_40: 7224232537136212352
+      PixelArtTownProps_41: -3583829075184876297
+      PixelArtTownProps_42: -4149398353580554613
+      PixelArtTownProps_43: 7960521025233223848
+      PixelArtTownProps_44: 7320600711195997049
+      PixelArtTownProps_45: 6896583613018738552
+      PixelArtTownProps_46: -3386022628507340213
+      PixelArtTownProps_47: 594215422524523328
+      PixelArtTownProps_48: 6164792908222615158
+      PixelArtTownProps_49: 2990765299119701534
+      PixelArtTownProps_5: 5180911024313379645
+      PixelArtTownProps_50: 7650302772512249234
+      PixelArtTownProps_51: -1688825265744847368
+      PixelArtTownProps_52: -8051439435818020147
+      PixelArtTownProps_53: -9087443444464838099
+      PixelArtTownProps_54: -416338733907788825
+      PixelArtTownProps_55: 439378371332247080
+      PixelArtTownProps_56: 9010338768375801237
+      PixelArtTownProps_57: 3060401949900268351
+      PixelArtTownProps_58: 6528867718422544411
+      PixelArtTownProps_59: 8719047687664345218
+      PixelArtTownProps_6: -5876006232102990767
+      PixelArtTownProps_60: -16639647660360425
+      PixelArtTownProps_61: 2563381003140516475
+      PixelArtTownProps_62: 3907728415362755703
+      PixelArtTownProps_63: -2198613968217224330
+      PixelArtTownProps_64: 3003841863748700501
+      PixelArtTownProps_65: 6877782591724683507
+      PixelArtTownProps_66: -6435920557508426323
+      PixelArtTownProps_67: 7445455072928192219
+      PixelArtTownProps_68: -1757148685855770952
+      PixelArtTownProps_69: 6833081674287370543
+      PixelArtTownProps_7: 863876438419191210
+      PixelArtTownProps_70: -8308965792976975046
+      PixelArtTownProps_71: -4849234755985388629
+      PixelArtTownProps_72: -2442225026469965300
+      PixelArtTownProps_73: -4366372545155452586
+      PixelArtTownProps_74: 3407251265852498629
+      PixelArtTownProps_75: -4809389528237823470
+      PixelArtTownProps_76: 3521695455107673917
+      PixelArtTownProps_77: 9138098356394965395
+      PixelArtTownProps_78: -4019160292833990409
+      PixelArtTownProps_79: -3818007635785097566
+      PixelArtTownProps_8: 5036498301222429925
+      PixelArtTownProps_80: 7919281878490464638
+      PixelArtTownProps_81: 4583145282011879369
+      PixelArtTownProps_82: -3337494819081273383
+      PixelArtTownProps_83: 1365225740076556065
+      PixelArtTownProps_84: 6789269926334446632
+      PixelArtTownProps_85: 3154990232956986974
+      PixelArtTownProps_86: -7606928412213322608
+      PixelArtTownProps_87: 9123342485975739564
+      PixelArtTownProps_88: -7155272895309183346
+      PixelArtTownProps_89: 564043592026297287
+      PixelArtTownProps_9: 899185340818513312
+      PixelArtTownProps_90: -3528318432292702589
+      PixelArtTownProps_91: -5390919934354893117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
