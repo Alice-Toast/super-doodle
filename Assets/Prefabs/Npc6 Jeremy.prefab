@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2486476466928426539}
   - component: {fileID: 1954217657764240512}
   m_Layer: 0
-  m_Name: Npc1
+  m_Name: Npc6 Jeremy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82,9 +82,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: a3e7f7da0014d3d4899dfa199409602a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5271b0cda001dca47ad22c3872c19e0a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 7
 --- !u!70 &2486476466928426539
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -152,12 +152,12 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.35125065}
-  m_Size: {x: 1, y: 2.7025013}
+  m_Offset: {x: 0, y: -0.29578996}
+  m_Size: {x: 1, y: 2.59158}
   m_Direction: 0
 --- !u!95 &1954217657764240512
 Animator:
@@ -169,7 +169,7 @@ Animator:
   m_GameObject: {fileID: 5776180464136555169}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 58f387d75e5a55a45abb998e56ac1bc2, type: 2}
+  m_Controller: {fileID: 9100000, guid: 501d0f81bfd8f234aa0f165e4b8b3d4f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

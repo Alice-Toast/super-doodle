@@ -25,8 +25,13 @@ public class CameraFollow : MonoBehaviour
     void Start()
     {
         target = GameObject.FindGameObjectWithTag("Player").transform;
+        
         secondaryTarget = GameObject.FindGameObjectWithTag("PrimeCamPos").transform;
-        rb = GetComponent<Rigidbody2D>();
+        if(secondaryTarget == null)
+        {
+            secondaryTarget = target;
+        }
+        rb = this.GetComponent<Rigidbody2D>();
     }
     // Update is called once per frame
     void Update()
