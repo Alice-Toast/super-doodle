@@ -24,7 +24,7 @@ public class Seat : MonoBehaviour
     {
         if (CanSit)
         {
-            Player.position = this.transform.position + (Vector3)Offset;
+            Player.position = new Vector3(this.transform.position.x, Player.position.y) + (Vector3)Offset;
             Player.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
             CanSit = false;
             PlayerSat.Invoke();
@@ -33,6 +33,7 @@ public class Seat : MonoBehaviour
         else
         {
             Stand();
+            Player.GetComponent<JuiceController>().EndSit();
         }
 
     }

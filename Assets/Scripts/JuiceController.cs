@@ -8,9 +8,11 @@ public class JuiceController : MonoBehaviour
     public float speed = 1f;
     public bool verticalMovement = false;
     private Vector2 playerVelocity= Vector2.down;
+    private Animator animator;
     void Start()
     {
         rb = this.GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
     public void HandleMovement(InputAction.CallbackContext context)
     {
@@ -26,10 +28,16 @@ public class JuiceController : MonoBehaviour
         if(playerVelocity.x < 0)
         {
             this.GetComponent<SpriteRenderer>().flipX = false;
+            animator.SetBool("Walking", true);
         }
         else if(playerVelocity.x > 0)
         {
             this.GetComponent<SpriteRenderer>().flipX = true;
+            animator.SetBool("Walking", true);
+        }
+        else
+        {
+            animator.SetBool("Walking", false);
         }
     }
 
@@ -52,5 +60,23 @@ public class JuiceController : MonoBehaviour
     void Update()
     {
         rb.linearVelocity = playerVelocity;
+    }
+
+    public void Sit(bool IsSitting)
+    {
+        animator.SetBool("Sitting", IsSitting);
+    }
+    public void Ponder(bool isPondering)
+    {
+        animator.SetBool("Pondering", isPondering);
+    }
+    public void AngerLevel(int level)
+    {
+        animator.SetInteger("AngerLevel", level);
+    }
+
+    public void EndSit()
+    {
+        animator.SetBool("Sitting", false);
     }
 }
