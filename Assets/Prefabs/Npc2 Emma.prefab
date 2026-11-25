@@ -13,6 +13,9 @@ GameObject:
   - component: {fileID: 6154223884025303273}
   - component: {fileID: 2486476466928426539}
   - component: {fileID: 1954217657764240512}
+  - component: {fileID: 7149281265137298444}
+  - component: {fileID: 1816694677974538614}
+  - component: {fileID: 3230137556790468650}
   m_Layer: 0
   m_Name: Npc2 Emma
   m_TagString: Untagged
@@ -181,3 +184,53 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7149281265137298444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599414be9b84b894b8331550ecec4b85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  dialougeList:
+  - And so I told him that he would need to come back with the appropriate sized radish if he wanted it prepared.
+  - "Ugh\u2026 some people just don\u2019t know how to be customers\u2026"
+  - "What a freak\u2026 "
+  dialogeIndex: 0
+  LinkedDialouge: {fileID: 0}
+  DialougeStarted: 0
+  Delay: 4
+  PrimaryDialouge: 1
+--- !u!114 &1816694677974538614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 387535df4e4cd204bb856f3dddf314a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  initialState: 2
+--- !u!114 &3230137556790468650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112e7361620978444bcdd703084090cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  Prefab: {fileID: 574899143879555444, guid: 4ebadef1b623cce4586aa494ce033d36, type: 3}
+  offsetPer: {x: 0, y: 0}
+  currentOffset: {x: -1.5, y: 2}
+  LifeTimer: 6

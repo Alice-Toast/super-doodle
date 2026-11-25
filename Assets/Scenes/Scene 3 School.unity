@@ -1823,6 +1823,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -9148329917073037924, guid: 0ffb948b0cc9e06499f53d2a4a03d2ac, type: 3}
+    - target: {fileID: 6552171073281477764, guid: 02f166f3dc440bb4a93c76d609a87d8e, type: 3}
+      propertyPath: isLocked
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6552171073281477764, guid: 02f166f3dc440bb4a93c76d609a87d8e, type: 3}
+      propertyPath: NextScene
+      value: Scene 4 WalkFromSchool
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

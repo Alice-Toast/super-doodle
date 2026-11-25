@@ -2937,7 +2937,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4236191626102532961, guid: 02f166f3dc440bb4a93c76d609a87d8e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 81.96
+      value: -29.4
       objectReference: {fileID: 0}
     - target: {fileID: 4236191626102532961, guid: 02f166f3dc440bb4a93c76d609a87d8e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2990,6 +2990,10 @@ PrefabInstance:
     - target: {fileID: 6242783205297849692, guid: 02f166f3dc440bb4a93c76d609a87d8e, type: 3}
       propertyPath: m_Color.r
       value: 0.7433963
+      objectReference: {fileID: 0}
+    - target: {fileID: 6552171073281477764, guid: 02f166f3dc440bb4a93c76d609a87d8e, type: 3}
+      propertyPath: NextScene
+      value: Scene 5 Home2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

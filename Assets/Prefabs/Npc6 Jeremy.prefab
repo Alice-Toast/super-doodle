@@ -13,6 +13,9 @@ GameObject:
   - component: {fileID: 6154223884025303273}
   - component: {fileID: 2486476466928426539}
   - component: {fileID: 1954217657764240512}
+  - component: {fileID: 4774533816494394419}
+  - component: {fileID: 5361756121962771622}
+  - component: {fileID: 5635666909064928311}
   m_Layer: 0
   m_Name: Npc6 Jeremy
   m_TagString: Untagged
@@ -86,7 +89,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 5271b0cda001dca47ad22c3872c19e0a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 4, y: 4}
@@ -181,3 +184,52 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4774533816494394419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599414be9b84b894b8331550ecec4b85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PassiveDialouge
+  dialougeList:
+  - And then I was the bad guy!
+  - "Hey\u2026 there\u2019s that kid who always avoids eye contact\u2026"
+  dialogeIndex: 0
+  LinkedDialouge: {fileID: 0}
+  DialougeStarted: 0
+  Delay: 4
+  PrimaryDialouge: 0
+--- !u!114 &5361756121962771622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 387535df4e4cd204bb856f3dddf314a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcController
+  initialState: 0
+--- !u!114 &5635666909064928311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112e7361620978444bcdd703084090cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialougeOutput
+  Prefab: {fileID: 574899143879555444, guid: 4ebadef1b623cce4586aa494ce033d36, type: 3}
+  offsetPer: {x: 0, y: 0}
+  currentOffset: {x: 1.5, y: 2}
+  LifeTimer: 6

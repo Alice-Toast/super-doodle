@@ -18,28 +18,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene 3 School.unity
     guid: 5edaf20ca026d094aa0b3a1fad91a1c2
   - enabled: 1
-    path: Assets/Scenes/School2.unity
-    guid: e83ed01f35e09204c9a12fe12c186559
+    path: Assets/Scenes/Scene 4 WalkFromSchool.unity
+    guid: 216f0ed397e7c2a49bfd211285f01bb4
   - enabled: 1
-    path: Assets/Scenes/School3.unity
-    guid: dee6612c830dd8746a83fc732d4235d3
-  - enabled: 1
-    path: Assets/Scenes/School4.unity
-    guid: acf0de9efc5ed254587dea32e0dbd4e1
-  - enabled: 1
-    path: Assets/Scenes/School5.unity
-    guid: fdca1e6257d328e45b08ec26e2c5cc9c
-  - enabled: 1
-    path: Assets/Scenes/WalkToSchool2.unity
-    guid: 3c5eae46388c05249831896d703d48b7
-  - enabled: 1
-    path: Assets/Scenes/WalkToSchool3.unity
-    guid: c0d02eb07c49b6f48b0093a95fc1c1bb
-  - enabled: 1
-    path: Assets/Scenes/WalkToSchool4.unity
-    guid: 82ef1e2d94654ae4fa09042ebd8a32f0
-  - enabled: 1
-    path: Assets/Scenes/WalkToSchool5.unity
-    guid: da71ff578088ae44d97bdf9e8afa61b6
+    path: Assets/Scenes/Scene 5 Home2.unity
+    guid: b195500e94b65ec4582381acbdbd077e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

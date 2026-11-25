@@ -1,6 +1,8 @@
-using UnityEngine;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using UnityEngine;
 
 public class PassiveDialouge : MonoBehaviour
 {
@@ -10,61 +12,88 @@ public class PassiveDialouge : MonoBehaviour
     public int dialogeIndex = 0;
     public PassiveDialouge LinkedDialouge;
     public bool DialougeStarted = false;
-    public float Delay = 1.6f;
+    public float Delay = 4f;
+    public bool PrimaryDialouge = true;
+    private DialougeOutput OutputText;
+    private NpcController NpcController;
     void Start()
     {
-        
+        OutputText = this.GetComponent<DialougeOutput>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        NpcController = this.GetComponent<NpcController>();
+    }
+    public void PlayDialouge()
+    {
+        if (LinkedDialouge != null)
+        {
+            NextDialouge();
+            StartCoroutine(DelayDialouge(true));
+        }
+        else
+        {
+            NextDialouge();
+            StartCoroutine(DelayDialouge(false));
+        }
     }
     public void NextDialouge()
     {
+
         if (dialogeIndex < dialougeList.Count)
         {
             DisplayDialouge(dialougeList[dialogeIndex]);
             dialogeIndex++;
+        }
+        else
+        {
+            Debug.Log("index Error");
         }
     }
 
     public void DisplayDialouge(string curDialoge)
     {
         Debug.Log(curDialoge);
+        NpcController.talk();
+        OutputText.Display(curDialoge);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "Player")
+        if (!DialougeStarted && PrimaryDialouge)
         {
-            DialougeStarted = true;
-            if (LinkedDialouge != null)
+            if (collision.tag == "Player")
             {
-                NextDialouge();
-                Sleep();
-                LinkedDialouge.RemoteDialouge();
-                Sleep();
-            }
-            else
-            {
-                while(dialogeIndex < dialougeList.Count)
-                {
-                    NextDialouge();
-                    Sleep();
-                }
+                DialougeStarted = true;
+                PlayDialouge();
             }
         }
     }
-    private void Sleep()
+
+    IEnumerator DelayDialouge(bool startRemote)
     {
-        Thread.Sleep((int)(Delay * 1000));
+        //Wait for the specified delay time before continuing.
+        //Debug.Log("delayStart");
+        yield return new WaitForSeconds(Delay);
+        if (startRemote)
+        {
+            LinkedDialouge.RemoteDialouge();
+            yield return new WaitForSeconds(Delay);
+        }
+        
+        if (dialogeIndex < dialougeList.Count)
+        {
+            PlayDialouge();
+        }
+        
+        //Do the action after the delay time has finished.
     }
 
     public void RemoteDialouge()
     {
+        DialougeStarted = true;
         NextDialouge();
-        Sleep();
     }
 }
 

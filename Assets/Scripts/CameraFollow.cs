@@ -51,7 +51,7 @@ public class CameraFollow : MonoBehaviour
                 hit = Physics2D.Raycast(transform.position, raycastTarget.normalized, distance, mask);
                 if (hit.point != Vector2.zero)
                 {
-                    transform.position = hit.point;
+                    transform.position = hit.point*Vector2.right + (Vector2)target.position*Vector2.up+(Vector2)offset;
                 }
                 else
                 {

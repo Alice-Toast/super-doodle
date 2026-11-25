@@ -13,6 +13,9 @@ GameObject:
   - component: {fileID: 6154223884025303273}
   - component: {fileID: 2486476466928426539}
   - component: {fileID: 1954217657764240512}
+  - component: {fileID: 6138118314191066829}
+  - component: {fileID: 3805417732611914147}
+  - component: {fileID: 3749524270234969647}
   m_Layer: 0
   m_Name: Teacher
   m_TagString: Untagged
@@ -181,3 +184,51 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6138118314191066829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599414be9b84b894b8331550ecec4b85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PassiveDialouge
+  dialougeList:
+  - "Why, <i>hey</i> there. You must be Juice. Hope you\u2019re ready for the school day."
+  dialogeIndex: 0
+  LinkedDialouge: {fileID: 0}
+  DialougeStarted: 0
+  Delay: 5
+  PrimaryDialouge: 1
+--- !u!114 &3805417732611914147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 387535df4e4cd204bb856f3dddf314a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NpcController
+  initialState: 0
+--- !u!114 &3749524270234969647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5776180464136555169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112e7361620978444bcdd703084090cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialougeOutput
+  Prefab: {fileID: 574899143879555444, guid: 4ebadef1b623cce4586aa494ce033d36, type: 3}
+  offsetPer: {x: 0, y: 0}
+  currentOffset: {x: 0, y: 2}
+  LifeTimer: 4
