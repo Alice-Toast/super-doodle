@@ -19,12 +19,17 @@ public class PassiveDialouge : MonoBehaviour
     void Start()
     {
         OutputText = this.GetComponent<DialougeOutput>();
+        if (this.tag != "Player")
+        {
+            NpcController = this.GetComponent<NpcController>();
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        NpcController = this.GetComponent<NpcController>();
+
+        
     }
     public void PlayDialouge()
     {
@@ -56,7 +61,10 @@ public class PassiveDialouge : MonoBehaviour
     public void DisplayDialouge(string curDialoge)
     {
         Debug.Log(curDialoge);
-        NpcController.talk();
+        if (this.tag != "Player")
+        {
+            NpcController.talk();
+        }
         OutputText.Display(curDialoge);
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -95,6 +103,8 @@ public class PassiveDialouge : MonoBehaviour
         DialougeStarted = true;
         NextDialouge();
     }
+
+    
 }
 
 public class Dialoge

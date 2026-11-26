@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6785688720015921276}
   - component: {fileID: 2352567214037519064}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Primed Camera Position
   m_TagString: PrimeCamPos
   m_Icon: {fileID: 0}
